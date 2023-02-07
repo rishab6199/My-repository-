@@ -1,1 +1,1 @@
-# My-repository-
+# Hey Im Rishab Mohan, a Data Scientist and software engineer from India. i take great care in the experience, architecture, and code quality of the things I build.
